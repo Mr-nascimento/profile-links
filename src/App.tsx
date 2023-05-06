@@ -10,17 +10,17 @@ const socialNetworks = [
     },
     {
         name: 'Facebook',
-        url: 'https://www.facebook.com/eduardo.oliveira.1998/',
+        url: 'https://www.facebook.com/igor.santos.1884787',
         icon: <FacebookLogo size={32} color='var(--white)'/>
     },
     {
         name: 'Github',
-        url: '#',
+        url: 'https://github.com/Mr-nascimento',
         icon: <GithubLogo size={32} color='#fff' />
     },
     {
         name: 'Linkedin',
-        url: '#',
+        url: 'https://www.linkedin.com/in/mr-igor-nascimento/',
         icon: <LinkedinLogo size={32} color='var(--white)' />
 
     },
